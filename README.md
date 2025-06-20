@@ -29,6 +29,11 @@ This repository contains configuration files and documentation for Headwind MDM.
 
 
 
+
+> [!NOTE]
+> Uso de UserManager.
+> Se utiliza para hacer resticciones a diferentes funciones en el dispositivo cliente
+ 
 This repository contains configuration files and documentation for Headwind MDM...
 [![Headwind MDM Q&A](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://developer.android.com/reference/android/os/UserManager)
 
