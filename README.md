@@ -8,6 +8,8 @@ This repository contains configuration files and documentation for Headwind MDM.
 
 ## 🔗 Links
 [![Headwind MDM Q&A](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://qa.h-mdm.com/)
+
+
  
 
 
@@ -28,6 +30,7 @@ This repository contains configuration files and documentation for Headwind MDM.
 
 
 This repository contains configuration files and documentation for Headwind MDM...
+[![Headwind MDM Q&A](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://developer.android.com/reference/android/os/UserManager)
 
 | UserManager Constant                     | Valor String                      | Descripción |
 |------------------------------------------|-----------------------------------|-------------|
