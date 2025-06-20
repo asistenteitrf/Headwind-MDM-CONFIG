@@ -64,6 +64,5 @@ This repository contains configuration files and documentation for Headwind MDM.
 | DISALLOW_MODIFY_ACCOUNTS                 | "no_modify_accounts"              | Bloquear modificación cuentas |
 | DISALLOW_REMOVE_MANAGED_PROFILE          | "no_remove_managed_profile"       | Evitar eliminar perfiles gestionados |
 | DISALLOW_ADD_MANAGED_PROFILE             | "no_add_managed_profile"          | Bloquear nuevos perfiles gestionados |
-| DISALLOW_SHARING_INTO_PROFILE            | "no_sharing_into_profile"         | Restringir compartir a perfil |![Captura de pantalla 2025-06-20 140924](https://github.com/user-attachments/assets/97722020-54f9-4367-a7e8-3ddc3d6d6137)
-
+| DISALLOW_SHARING_INTO_PROFILE            | "no_sharing_into_profile"         | Restringir compartir a perfil | 
 | DISALLOW_SIM_GLOBALLY                    | "no_sim_globally"                 | Desactivar funciones SIM |
