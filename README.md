@@ -36,12 +36,9 @@
 > Uso de UserManager.
 > Se utiliza para hacer resticciones a diferentes funciones en el dispositivo cliente
 
+`<link>` : <https://github.com](https://developer.android.com/reference/android/os/UserManager)>
 
-
-
-
-`<link>` : <https://github.com](https://developer.android.com/reference/android/os/UserManager)> 
-
+![Logo](./images/Captura de pantalla 2025-06-20 140924){: width="300"}
 
 | UserManager Constant                     | Valor String                      | Descripción |
 |------------------------------------------|-----------------------------------|-------------|
