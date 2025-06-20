@@ -1,20 +1,12 @@
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="images/68747470733a2f2f682d6d646d2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30372f6e6565772d6c6f676f2e706e67.png" alt="Logo" width="150">
-  
+  <img src="images/68747470733a2f2f682d6d646d2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30372f6e6565772d6c6f676f2e706e67.png" alt="Logo" width="150">  
   <div>
     <h1>Headwind MDM Configuration</h1>
     <p>Sistema de gestión de dispositivos móviles</p>
   </div>
 </div>
 
-
-# Headwind MDM Configuration
-
-![Logo](https://h-mdm.com/wp-content/uploads/2019/07/neew-logo.png "Headwind MDM Logo")
-
-**Headwind MDM Configuration Repository**  
-This repository contains configuration files and documentation for Headwind MDM...
-
+ 
 
 ## 🔗 Links
 [![Headwind MDM Q&A](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://qa.h-mdm.com/)
