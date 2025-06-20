@@ -45,7 +45,7 @@ This repository contains configuration files and documentation for Headwind MDM.
 | DISALLOW_NETWORK_RESET                   | "no_network_reset"                | Bloquear reset de red |
 | DISALLOW_THREAD_NETWORK                  | "no_thread_network"               | Restringir redes Thread (IoT) |
 
-| **Restricciones de sistema**             |                                   |                            |         
+|  Restricciones de sistema                |                                   |                            |         
 | DISALLOW_SAFE_BOOT                       | "no_safe_boot"                    | Bloquear arranque seguro |
 | DISALLOW_FACTORY_RESET                   | "no_factory_reset"                | Bloquear reset de fábrica |
 | DISALLOW_SYSTEM_ERROR_DIALOGS            | "no_system_error_dialogs"         | Ocultar diálogos de error |
