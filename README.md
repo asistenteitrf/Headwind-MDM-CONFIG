@@ -1,6 +1,5 @@
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="images/68747470733a2f2f682d6d646d2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30372f6e6565772d6c6f676f2e706e67.png
-" alt="Logo" width="150">
+  <img src="images/68747470733a2f2f682d6d646d2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30372f6e6565772d6c6f676f2e706e67.png" alt="Logo" width="150">
   
   <div>
     <h1>Headwind MDM Configuration</h1>
