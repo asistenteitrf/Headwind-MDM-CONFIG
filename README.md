@@ -84,3 +84,11 @@
 | DISALLOW_ADD_MANAGED_PROFILE             | "no_add_managed_profile"          | Bloquear nuevos perfiles gestionados |
 | DISALLOW_SHARING_INTO_PROFILE            | "no_sharing_into_profile"         | Restringir compartir a perfil | 
 | DISALLOW_SIM_GLOBALLY                    | "no_sim_globally"                 | Desactivar funciones SIM |
+
+
+
+## Authors
+
+- [@Plateran](https://www.farmared.com.uy)
+
+
