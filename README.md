@@ -38,7 +38,7 @@
 
 `<link>` : <https://github.com](https://developer.android.com/reference/android/os/UserManager)>
 
-![Logo](./images/UserManager.png){: width="300"}
+![Logo](./images/UserManager.png){:width="300"}
 
 | UserManager Constant                     | Valor String                      | Descripción |
 |------------------------------------------|-----------------------------------|-------------|
